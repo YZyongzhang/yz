@@ -13,4 +13,4 @@ So, now I create this repository to record my learning journey.
 4. There will be some errors in this module, and yes! It will also contain many `AIT` elements.
 
 ## Path of My Learning
-[image](./image/study.png)
+![image](./image/study.png)
